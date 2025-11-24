@@ -1,0 +1,142 @@
+[
+  {
+    "id": 647684,
+    "year": 2025,
+    "province": "01",
+    "code": "01002201",
+    "name": "Trường Mầm non Quang Trung",
+    "address": "43 Quang Trung",
+    "lat": 21.0196711,
+    "lon": 105.8483631
+  },
+  {
+    "id": 647687,
+    "year": 2025,
+    "province": "01",
+    "code": "01002206",
+    "name": "Trường Mẫu giáo Mầm non A",
+    "address": "88 Thợ Nhuộm",
+    "lat": 21.02271,
+    "lon": 105.84855
+  },
+  {
+    "id": 647692,
+    "year": 2025,
+    "province": "01",
+    "code": "01002306",
+    "name": "Trường Mầm non Sao Sáng",
+    "address": "Số 5 Ngô Thì Nhậm",
+    "lat": 21.018672,
+    "lon": 105.8531315
+  },
+  {
+    "id": 647694,
+    "year": 2025,
+    "province": "01",
+    "code": "01002308",
+    "name": "Trường Mầm non Bà Triệu",
+    "address": "65 Phố Bà Triệu",
+    "lat": 21.0192872,
+    "lon": 105.8496835
+  },
+  {
+    "id": 647696,
+    "year": 2025,
+    "province": "01",
+    "code": "01002310",
+    "name": "Trường Mầm non Lý Thường Kiệt",
+    "address": "Số 57 phố Lý Thường Kiệt",
+    "lat": 21.02395,
+    "lon": 105.84829
+  },
+  {
+    "id": 647700,
+    "year": 2025,
+    "province": "01",
+    "code": "01002317",
+    "name": "Trường Mầm non 20-10",
+    "address": "40 Thợ Nhuộm",
+    "lat": 21.0266456,
+    "lon": 105.8449982
+  },
+  {
+    "id": 647702,
+    "year": 2025,
+    "province": "01",
+    "code": "01002326",
+    "name": "Mầm non TT Thế Giới Trẻ Em",
+    "address": "tầng 3 Tháp Hà Nội số 49 Hai Bà Trưng Phường Trần Hưng Đạo Quận Hoàn Kiếm Hà Nội",
+    "lat": 21.025738,
+    "lon": 105.845581
+  },
+  {
+    "id": 647704,
+    "year": 2025,
+    "province": "01",
+    "code": "01002409",
+    "name": "Tiểu học Quang Trung",
+    "address": "39 Quang Trung",
+    "lat": 21.0205511,
+    "lon": 105.8481555
+  },
+  {
+    "id": 647711,
+    "year": 2025,
+    "province": "01",
+    "code": "01002416",
+    "name": "Tiểu học Võ Thị Sáu",
+    "address": "35 Trần Hưng Đạo",
+    "lat": 21.02047,
+    "lon": 105.854
+  },
+  {
+    "id": 647716,
+    "year": 2025,
+    "province": "01",
+    "code": "01002501",
+    "name": "Trường THCS Trưng Vương",
+    "address": "26 Hàng Bài",
+    "lat": 21.0233569,
+    "lon": 105.8522861
+  },
+  {
+    "id": 647717,
+    "year": 2025,
+    "province": "01",
+    "code": "01002502",
+    "name": "Trường THCS Ngô Sĩ  Liên",
+    "address": "27, 29 Hàm Long",
+    "lat": 21.019371,
+    "lon": 105.852403
+  },
+  {
+    "id": 647723,
+    "year": 2025,
+    "province": "01",
+    "code": "01002601",
+    "name": "THPT Trần Phú - Hoàn Kiếm",
+    "address": "Số 8 Hai Bà Trưng",
+    "lat": 21.023889,
+    "lon": 105.856028
+  },
+  {
+    "id": 647724,
+    "year": 2025,
+    "province": "01",
+    "code": "01002602",
+    "name": "THPT Việt Đức",
+    "address": "47 Lý Thường Kiệt",
+    "lat": 21.0236979,
+    "lon": 105.8494166
+  },
+  {
+    "id": 704169,
+    "year": 2025,
+    "province": "01",
+    "code": "CDNTHN",
+    "name": "Cao Đẳng Nghệ Thuật",
+    "address": "7 Phố Hai Bà Trưng",
+    "lat": 21.023142280374767,
+    "lon": 105.8560153924093
+  }
+]
